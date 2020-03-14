@@ -1,0 +1,14 @@
+C:\Users\Kunal Ranjan\source\repos\Blog\Blog\bin\Debug\netcoreapp2.2\Blog.deps.json
+C:\Users\Kunal Ranjan\source\repos\Blog\Blog\bin\Debug\netcoreapp2.2\Blog.runtimeconfig.json
+C:\Users\Kunal Ranjan\source\repos\Blog\Blog\bin\Debug\netcoreapp2.2\Blog.runtimeconfig.dev.json
+C:\Users\Kunal Ranjan\source\repos\Blog\Blog\bin\Debug\netcoreapp2.2\Blog.dll
+C:\Users\Kunal Ranjan\source\repos\Blog\Blog\obj\Debug\netcoreapp2.2\Blog.csprojAssemblyReference.cache
+C:\Users\Kunal Ranjan\source\repos\Blog\Blog\obj\Debug\netcoreapp2.2\Blog.csproj.CoreCompileInputs.cache
+C:\Users\Kunal Ranjan\source\repos\Blog\Blog\obj\Debug\netcoreapp2.2\Blog.RazorAssemblyInfo.cache
+C:\Users\Kunal Ranjan\source\repos\Blog\Blog\obj\Debug\netcoreapp2.2\Blog.RazorAssemblyInfo.cs
+C:\Users\Kunal Ranjan\source\repos\Blog\Blog\obj\Debug\netcoreapp2.2\Blog.AssemblyInfoInputs.cache
+C:\Users\Kunal Ranjan\source\repos\Blog\Blog\obj\Debug\netcoreapp2.2\Blog.AssemblyInfo.cs
+C:\Users\Kunal Ranjan\source\repos\Blog\Blog\obj\Debug\netcoreapp2.2\Blog.RazorTargetAssemblyInfo.cache
+C:\Users\Kunal Ranjan\source\repos\Blog\Blog\bin\Debug\netcoreapp2.2\Blog.pdb
+C:\Users\Kunal Ranjan\source\repos\Blog\Blog\obj\Debug\netcoreapp2.2\Blog.dll
+C:\Users\Kunal Ranjan\source\repos\Blog\Blog\obj\Debug\netcoreapp2.2\Blog.pdb
